@@ -1,5 +1,7 @@
-{
+﻿{
     "Name": "김현종",
+    "ID": "qwe",
+    "PassWord": "123",
     "Cash": 130000,
     "Balance": 20000
 }

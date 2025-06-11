@@ -45,8 +45,8 @@ public class GameManager : MonoBehaviour
         else
         {
             // 초기값 세팅
-            userData = new UserData("김현종", 100000, 50000);
-            SaveUserData(); // 기본값 저장
+            //userData = new UserData("김현종", 100000, 50000);
+            //SaveUserData(); // 기본값 저장
         }
     }
 }
